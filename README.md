@@ -1,5 +1,7 @@
 # 📊 Superstore Sales Dashboard (Excel)
 <img width="1223" height="742" alt="image" src="https://github.com/user-attachments/assets/6dd96b98-92ec-47fa-9c7a-b4a649697047" />
+
+
 ## 📌 Project Overview
 
 This project is an interactive **Sales Dashboard** built in **Microsoft Excel** using the Superstore dataset. The dashboard helps analyze sales performance, profitability, customer trends, and regional performance through Pivot Tables, KPIs, Slicers, and Charts.
